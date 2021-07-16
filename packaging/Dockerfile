@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 ENV LANG C.UTF-8
 
 RUN set -xe; \
