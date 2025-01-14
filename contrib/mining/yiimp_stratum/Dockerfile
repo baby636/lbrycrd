@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.21.2
 ARG REPOSITORY=https://github.com/tpruvot/yiimp.git
 
 ENV BUILD_DEPS \
